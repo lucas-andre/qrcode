@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de QR Code</title>
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <img src="./styles/qr-code.gif" alt="">
+        <textarea cols="33" rows="5" placeholder="Escreva algo"></textarea>
+        <div class="buttons">
+            <button onclick="generate();" class="bubbly-button">Gerar QRcode 😎</button>
+            <button class="bubbly-button menor" onClick="window.location.reload();">Resetar ⚙️</button>
+        </div>
+    </div>
+    <script src="qr.js"></script>
+</body>
+
+</html>
