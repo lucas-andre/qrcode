@@ -1,5 +1,6 @@
 # 💥 Gerador de QR Code
 
+Converte em segundos seu texto em um QR Code que pode ser baixado.
 Desenvolvido em JavaScript, utilizando a API de QR Code da [goqr.me](http://goqr.me/api/), HTML e **Sass**, para os estilos da aplicação.
 
 ## 🧐 Onde visualizar o projeto?
