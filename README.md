@@ -21,7 +21,7 @@ Acesse: https://lucas-andre.github.io/qrcode
 Baixe os arquivos compactados em .zip diretamente do repositório.
 
 **Por linha de comando.**
-Abra o Git Bash e cole: `git clone https://github.com/lucas-andre/qrcode`
+Abra o Git Bash e cole: `git clone https://github.com/lucas-andre/qrcode.git`
 
 
 ## 📃 Licença 
